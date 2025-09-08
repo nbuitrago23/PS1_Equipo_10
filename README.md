@@ -51,9 +51,9 @@ Repositorio del Proyecto Set 1 (Grupo 10). Analizamos el mercado laboral y la **
 
 1. **Clonar o descargar** este repo.  
 2. Abrir en **R/RStudio**.  
-3. Verificar la ruta de trabajo (evita `setwd()` rígido; usa rutas relativas si es posible).  
-4. Ejecutar los scripts de `scripts/` en el orden 1→8.  
-5. Las salidas se guardan en `views/` y objetos intermedios en `stores/`.
+3. Verificar la ruta de trabajo.  
+4. Ejecutar los scripts de `scripts/` en el orden 1 al 8.  
+5. Las salidas se guardan en `stores/`.
 
 **Paquetes usados (principales):**
 ```r
